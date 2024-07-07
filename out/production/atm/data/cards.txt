@@ -1,3 +1,0 @@
-1234-1234-1234-1234 pin:1235 balance:500.00 blocking:false attemptCounter:3 lockDate:null
-1234-1234-1234-5678 pin:1235 balance:100505.01 blocking:false attemptCounter:3 lockDate:null
-1234-1234-1234-9012 pin:1235 balance:500.05 blocking:false attemptCounter:3 lockDate:null
